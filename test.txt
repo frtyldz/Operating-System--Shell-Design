@@ -1,0 +1,7 @@
+ps 
+ps | sort
+ps aux
+ls
+pwd
+ls | sort
+
